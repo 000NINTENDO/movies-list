@@ -1,6 +1,6 @@
 import React from "react";
 
-const movies = [
+export const movies = [
   {
     name: "Spider Man: Sacrifice",
     subName: "Sacrifice",
@@ -24,6 +24,14 @@ const movies = [
     date: "October 24, 2020",
     src: "./photos/thor.jpg",
     id: 3,
+  },
+  {
+    name: "Iron Man 2",
+    subName: "",
+    price: "$1000",
+    date: "October 25, 2020",
+    src: "./photos/iron-man.jpg",
+    id: 4,
   },
   {
     name: "Iron Man 2",
