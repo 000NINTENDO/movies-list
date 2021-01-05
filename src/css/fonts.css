@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "michroma-regular";
+    src: url('../fonts/Michroma-Regular.ttf');
+}
+
+@font-face {
+    font-family: "gruppo-regular";
+    src: url('../fonts/Gruppo-Regular.ttf');
+}
+@font-face {
+    font-family: "goldman-regular";
+    src: url('../fonts/Goldman-Regular.ttf');
+}
+
+@font-face {
+    font-family: "goldman-bold";
+    src: url('../fonts/Goldman-Bold.ttf');
+}
+
+@font-face {
+    font-family: "mandali";
+    src: url('../fonts/Mandali-Regular.ttf');
+}
+
+@font-face {
+    font-family: "baloo";
+    src: url('../fonts/baloo-2/Baloo2-Regular.ttf');
+}
+
+@font-face {
+    font-family: "mavenpro";
+    src: url('../fonts/MavenPro-VariableFont_wght.ttf');
+}
+
+
